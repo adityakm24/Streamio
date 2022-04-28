@@ -16,18 +16,20 @@ include("auth_session.php");
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <style>
-h1,p {
-    color:white;
-    margin: 70px;
-}
-iframe {
-    border: 1px solid #4CAF50;
-    margin: 70px;
-}
+    h1,
+    p {
+        color: white;
+        margin: 70px;
+    }
+
+    iframe {
+        border: 1px solid #4CAF50;
+        margin: 70px;
+    }
 </style>
 
 <body style="background: rgb(0,0,0);">
-<div class="container-fluid" id="dqv">
+    <div class="container-fluid" id="dqv">
         <nav class="navbar navbar-light navbar-expand-md py-3" style="background: black;border-color: rgb(0,0,0);--bs-light: #ffffff;--bs-light-rgb: 255,255,255;">
             <div class="container"><a class="navbar-brand d-flex align-items-center" href="#"><span style="font-weight: bold;color: rgba(255,255,255,0.9);background: #000000;">Streamio</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-3"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navcol-3" style="background: #000000;color: rgb(255,255,255);">
@@ -40,17 +42,17 @@ iframe {
             </div>
         </nav>
         <div>
-        <h1 style="background: #000000;color: rgb(255,255,255);">Vikings Season 1 Trailer</h1>
-        
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9GgxinPwAGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:70%; height:500px;"></iframe>
-        
-            <p>IMDB: 8.5/10</p>
-            <p>Ivar the Boneless summons the Seer to tell him about his greatest enemy, Lagertha; the Seer recounts Lagertha's epic story, telling everything there is to know about the formidable warrior, fearless leader and legendary shield-maiden.</p>
-            
+            <h1 style="background: #000000;color: rgb(255,255,255);">Disney's Aladdin Official Trailer - In Theaters May 24!</h1>
+
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/foyufD52aog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:70%; height:500px;"></iframe>
+
+            <p>IMDB: 6.9/10<br>Rotten Tomatoes: 53%<br>Metacritic: 57%</p>
+            <p>Aladdin, a kind thief, woos Jasmine, the princess of Agrabah, with the help of Genie. When Jafar, the grand vizier, tries to usurp the king, Jasmine, Aladdin and Genie must stop him from succeeding.</p>
+
         </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/Dynamically-Queue-Videos.js"></script>
-    <script src="https://www.youtube.com/iframe_api"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/Dynamically-Queue-Videos.js"></script>
+        <script src="https://www.youtube.com/iframe_api"></script>
 </body>
 
 </html>

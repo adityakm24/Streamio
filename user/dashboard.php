@@ -55,7 +55,7 @@ p {text-align: center;}
                     <div class="col-sm-12 col-md-6 col-lg-4" style="border-style: none;">
                         <div class="card clean-card text-center"><img src="https://i.ytimg.com/vi/SQ96f_ZrQ48/maxresdefault.jpg" style="height: 200px;"></img>
                             <div class="card-body info" style="background: #000000;color: rgb(255,255,255);border-color: rgb(0,0,0);">
-                                <h4 class="card-title" style="color: rgb(255,255,255);">The Tomorrow War - Official Trailer (English) | Amazon Prime Video</h4>
+                            <a href="vidplayer2.php"><u><h4 class="card-title" style="color: rgb(255,255,255);">The Tomorrow War - Official Trailer (English) | Amazon Prime Video</h4></u></a>
                                 <p class="card-text"></p>
                             </div>
                         </div>
@@ -63,7 +63,7 @@ p {text-align: center;}
                     <div class="col-sm-12 col-md-6 col-lg-4" style="border-style: none;">
                         <div class="card clean-card text-center"><img src="https://i.ytimg.com/vi/6gVAIx7OeyI/maxresdefault.jpg" style="height: 200px;"></img>
                             <div class="card-body info" style="color: rgb(255,255,255);background: #000000;border-color: rgb(0,0,0);">
-                                <h4 class="card-title" style="color: rgb(255,255,255);">THE PLATFORM: Trailer (ENGLISH)</h4>
+                            <a href="vidplayer3.php"><u><h4 class="card-title" style="color: rgb(255,255,255);">The Platform | Main Trailer | Netflix</h4></u></a>
                                 <p class="card-text"></p>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ p {text-align: center;}
                     <div class="col-sm-12 col-md-6 col-lg-4" style="border-style: none;">
                         <div class="card clean-card text-center"><img src=" https://i.ytimg.com/vi/foyufD52aog/hqdefault.jpg " style="height: 200px;"></img>
                             <div class="card-body info" style="background: #0d0d0d;border-color: rgb(0,0,0);">
-                                <h4 class="card-title" style="background: #000000;color: rgb(255,255,255);">Disney's Aladdin Official Trailer - In Theaters May 24!</h4>
+                            <a href="vidplayer4.php"><u><h4 class="card-title" style="background: #000000;color: rgb(255,255,255);">Disney's Aladdin Official Trailer - In Theaters May 24!</h4></u></a>
                                 <p class="card-text"></p>
                             </div>
                         </div>
@@ -86,7 +86,7 @@ p {text-align: center;}
                     <div class="col-sm-12 col-md-6 col-lg-4" style="border-color: none;">
                         <div class="card clean-card text-center"><img src=" https://sgdccdnems02.cdnsrv.jio.com/c.saavncdn.com/828/I-Believe-From-the-Pan-Movie-Trailer-English-2015-500x500.jpg " style="height: 200px;"></img>
                             <div class="card-body info" style="color: rgb(255,255,255);background: #000000;border-color: rgb(0,0,0);">
-                                <h4 class="card-title" style="background: #000000;color: rgb(255,255,255);">I Believe (From The "Pan" Movie Trailer)</h4>
+                            <a href="vidplayer5.php"><u><h4 class="card-title" style="background: #000000;color: rgb(255,255,255);">I Believe (From The "Pan" Movie Trailer)</h4></u></a>
                                 <p class="card-text"></p>
                             </div>
                         </div>
@@ -94,7 +94,7 @@ p {text-align: center;}
                     <div class="col-sm-12 col-md-6 col-lg-4" style="border-style: none;">
                         <div class="card clean-card text-center"><img src="https://i.ytimg.com/vi/vz-gdEL_ae8/maxresdefault.jpg " style="height: 200px;"></img>
                             <div class="card-body info" style="background: #000000;">
-                                <h4 class="card-title" style="background: #000000;color: rgb(255,255,255);">Greenland | Official Trailer [HD] | On Demand Everywhere December 18th</h4>
+                            <a href="vidplayer6.php"><u><h4 class="card-title" style="background: #000000;color: rgb(255,255,255);">Greenland | Official Trailer [HD] | On Demand Everywhere December 18th</h4></u></a>
                                 <p class="card-text"></p>
                             </div>
                         </div>
